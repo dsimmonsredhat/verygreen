@@ -4,6 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Hello World correct with Patch</p>'; ?> 
- <span style="text-decoration:blink;">some text you want to blink</span>
+ <?php echo "<font color='red'>Missing Patch</font>"; ?>
  </body>
 </html>
