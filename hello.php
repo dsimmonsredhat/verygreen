@@ -3,7 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World correct with Patch</p>'; ?> 
- <?php echo "<font color='red'>Missing Patch</font>"; ?>
+ <?php echo '<p>Hello I am Feeling/p>'; ?> 
+ <?php echo "<font color='red'>Red</font>"; ?>
  </body>
 </html>
