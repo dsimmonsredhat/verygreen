@@ -7,3 +7,4 @@
  <?php echo "<font color='red'>Red</font>"; ?>
  </body>
 </html>
+parent.window.location.reload();
